@@ -1,0 +1,57 @@
+/*fundo*/
+
+body{
+    background-color: rgb(138, 43, 226);
+}
+
+.container{
+   
+    width: 600px;
+    margin-left: 26%; 
+    background-color: rgb(255, 255, 255);
+}
+
+/*contatos*/
+
+a{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+p{
+    padding: 0;
+    border: 0;
+    margin: 0;
+}
+
+#ctt {
+    height: 0;
+    width: 90px;
+}
+
+#ctt1 {
+    height: 0;
+    margin: 0;
+    padding-left: 70px;
+    padding-bottom: 0;
+}
+
+#ctt2{
+    height: 0;
+    padding-left: 140px;
+    
+}
+
+/*conteudo*/
+
+.cont{
+    text-align: center;
+}
+
+#img1{
+    padding-top: 20px;
+    margin-left: 29%;
+    width: 250px;
+}
+
