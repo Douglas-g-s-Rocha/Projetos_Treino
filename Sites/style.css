@@ -50,8 +50,22 @@ p{
 }
 
 #img1{
-    padding-top: 20px;
-    margin-left: 29%;
-    width: 250px;
+   padding-top: 20px;
 }
 
+.cont2{
+    text-align: center;
+}
+
+#img2{
+    padding-top: 20px;
+}
+
+.contFinal{
+    text-align: center;
+}
+
+#imgF{
+    padding-top: 20px;
+    margin-bottom: 30px;
+}
