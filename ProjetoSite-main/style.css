@@ -1,0 +1,91 @@
+@font-face {
+    font-family: GreatVibes;
+    src: local(Great_Vibes), url(Fontes/Great_Vibes/GreatVibes-Regular.ttf);
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Cookie;
+    src: local(Cookie_), url(Fontes/Cookie_/Cookie-Regular.ttf);
+    font-weight: 800;
+}
+
+body {
+
+    background-color: rgb(45, 45, 88);
+
+}
+
+.container {
+    position: relative;
+    padding: 0;
+    margin: 0;
+}
+
+#IMG01{
+    position: absolute;
+    height: 300px;
+    width: 100%;
+    border: none;
+    
+}
+
+#Nome{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    color: white;
+    font-family: Cookie;
+    font-size: 50px;
+}
+
+#Frase {
+    position: absolute;
+    left: 100px;
+    top: 180px;
+    color: white;
+    font-family: GreatVibes;
+}
+
+#menu{
+    padding-top: 700px;
+    height: 80px;
+    width: 100%;
+    background-color: white;
+}
+
+
+
+#img01{
+    width: 200px;
+    height: 300px;
+    position: absolute;
+}
+
+.Menu{
+    
+    padding-top: 310px;
+    padding-bottom: 10px;
+    background-color: rgb(37, 32, 99);
+}
+
+h2 {
+    padding: 0;
+    margin: 0;
+   margin-left: 250px;
+}
+
+#txt01 {
+    margin-left: 230px;
+}
+
+
+
+@media(max-width: 800px){
+    
+  #IMG01{
+    position: fixed;
+  }
+
+
+}
